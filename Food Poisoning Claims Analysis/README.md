@@ -7,7 +7,8 @@ Vivendo is a fast food chain in Brazil with over 200 outlets. Customers often cl
 3. How does the average time to close claims differ by location?"
 Analysed claim compensation for food poisoning. Validated the data. Performed Exploratory Data Analysis. Provided visualisation.
 
-# Dataset: The dataset contains one row for each claim. The dataset can be downloaded from here.
+# Dataset: 
+The dataset contains one row for each claim. The dataset can be downloaded from here.
 ## The following are the dataset descriptions:
 **Claim ID**: Character, the unique identifier of the claim.
 **Time to Close**: Numeric, number of days it took for the claim to be closed.
