@@ -4,20 +4,19 @@ Vivendo is a fast food chain in Brazil with over 200 outlets. Customers often cl
 # Questions
 1. How does the number of claims differ across locations?
 2. What is the distribution of time to close claims?
-3. How does the average time to close claims differ by location?"
-Analysed claim compensation for food poisoning. Validated the data. Performed Exploratory Data Analysis. Provided visualisation.
+3. How does the average time to close claims differ by location?
 
 # Dataset: 
 The dataset contains one row for each claim. The dataset can be downloaded from here.
 ## The following are the dataset descriptions:
-**Claim ID**: Character, the unique identifier of the claim.
-**Time to Close**: Numeric, number of days it took for the claim to be closed.
-**Claim Amount**: Numeric, initial claim value in the currency of Brazil.
-**Amount Paid**: Numeric, total amount paid after the claim closed in the currency of Brazil.
-**Location**: Character, location of the claim, one of “RECIFE”, “SAO LUIS”, “FORTALEZA”, or “NATAL”.
-**Individuals on Claim**: Numeric, number of individuals on this claim.
-**Linked Cases**: Binary, whether this claim is believed to be linked with other cases, either TRUE or FALSE.
-**Cause**: Character, the cause of the food poisoning injuries, one of ‘vegetable’, ‘meat’, or ‘unknown’.
+**Claim ID**: Character, the unique identifier of the claim.  
+**Time to Close**: Numeric, number of days it took for the claim to be closed.  
+**Claim Amount**: Numeric, initial claim value in the currency of Brazil.  
+**Amount Paid**: Numeric, total amount paid after the claim closed in the currency of Brazil.  
+**Location**: Character, location of the claim, one of “RECIFE”, “SAO LUIS”, “FORTALEZA”, or “NATAL”.  
+**Individuals on Claim**: Numeric, number of individuals on this claim.  
+**Linked Cases**: Binary, whether this claim is believed to be linked with other cases, either TRUE or FALSE.  
+**Cause**: Character, the cause of the food poisoning injuries, one of ‘vegetable’, ‘meat’, or ‘unknown’.  
 
 # Skills: 
 - Data manipulation and EDA using pandas and numpy
