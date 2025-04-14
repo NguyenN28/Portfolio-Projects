@@ -28,5 +28,6 @@
 🤝 Feel free to explore my work and connect!
 
 👨‍💻
-✉️ Email: leona.nguyen.ms@gmail.com! 
+✉️ Email: leona.nguyen.ms@gmail.com
+
 📄 [Résumé](https://github.com/NguyenN28/Portfolio-Projects/blob/main/Profile-linkedin.pdf) 
