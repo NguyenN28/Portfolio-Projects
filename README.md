@@ -30,4 +30,4 @@
 
    ✉️ Email: leona.nguyen.ms@gmail.com
 
-   📄 [Résumé](https://github.com/NguyenN28/Portfolio-Projects/blob/main/Profile-linkedin.pdf) 
+   📄 [Résumé](https://github.com/NguyenN28/Portfolio-Projects/blob/main/Resume.pdf) 
